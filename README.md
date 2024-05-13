@@ -1,19 +1,31 @@
-- 👋 Hi, I’m Christian Vaydal
-- 👀 I’m interested in Machine Learning, ethical hacking and Game and Software developing.
-- 🌱 I’m currently learning Game and Software Development.
-- I'm Information Technology student at St. Bernadette College of Alabang.
+# Hello, I'm Christian Vaydal
 
-Programming Languages:
-- Python
-- JavaScript
-- Java
-- C/C++
-- C#
-- PHP
+I'm a Bachelor of Science in Information Technology (BSIT) student with a passion for technology and software development. I am currently studying game and software development, with a keen interest in machine learning, game development, and web development.
 
-I use PHP and Flask and Django in Python for web development and Pygame in Python and Godot in C# for Game development
+## About Me
 
-<!---
-christVayds/christVayds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I'm currently pursuing my Bachelor's degree in Information Technology.
+- 💻 My programming languages include Python, C/C++, PHP, Java, JavaScript, and C#.
+- 🌐 I specialize in web development, primarily using PHP and Python for building dynamic and interactive web applications.
+- 🤖 I'm fascinated by machine learning and enjoy exploring its applications in various domains.
+- 🎮 I have a strong interest in game development and love creating immersive experiences for players.
+- 📱 I'm always eager to learn and explore new technologies and tools in the ever-evolving field of software development.
+
+## Projects
+
+Here are a few projects I've worked on:
+
+- **[Project 1](link-to-project-1)**: Description of project 1.
+- **[Project 2](link-to-project-2)**: Description of project 2.
+- **[Project 3](link-to-project-3)**: Description of project 3.
+
+## Contact Me
+
+- 📧 Feel free to reach out to me via email at [christianvaydal112@gmail.com](mailto:christianvaydal112@gmail.com).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle).
+
+## Let's Connect!
+
+I'm always open to collaborations, discussions, and learning opportunities. If you share similar interests or have exciting projects in mind, feel free to reach out. Let's connect and build something amazing together!
+
