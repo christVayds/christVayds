@@ -5,7 +5,7 @@ I'm a Bachelor of Science in Information Technology (BSIT) student with a passio
 ## About Me
 
 - 🎓 I'm currently pursuing my Bachelor's degree in Information Technology.
-- 💻 My programming languages include Python, C/C++, PHP, Java, JavaScript, and C#.
+- 💻 My programming languages include Python, C/C++, PHP, Java, JavaScript, C# and Lua.
 - 🌐 I specialize in web development, primarily using PHP and Python for building dynamic and interactive web applications.
 - 🤖 I'm fascinated by machine learning and enjoy exploring its applications in various domains.
 - 🎮 I have a strong interest in game development and love creating immersive experiences for players.
@@ -22,8 +22,8 @@ Here are a few projects I've worked on:
 ## Contact Me
 
 - 📧 Feel free to reach out to me via email at [christianvaydal112@gmail.com](mailto:christianvaydal112@gmail.com).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle).
+- 💬 Connect with me on [LinkedIn](www.linkedin.com/in/christian-vaydal-0bab86268).
+- 📸 Follow me on [Instagram](https://www.instagram.com/chriss_vaydall/)
 
 ## Let's Connect!
 
