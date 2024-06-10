@@ -15,7 +15,7 @@ I'm a Bachelor of Science in Information Technology (BSIT) student with a passio
 
 Here are a few projects I've worked on:
 
-- **[Project 1]([link-to-project-1](https://github.com/christVayds/backInTime.git))**: Description of project 1.
+- **[Project 1](https://github.com/christVayds/backInTime.git)**: Description of project 1.
 - **[Project 2](link-to-project-2)**: Description of project 2.
 - **[Project 3](link-to-project-3)**: Description of project 3.
 
