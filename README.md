@@ -4,8 +4,8 @@ I'm a Bachelor of Science in Information Technology (BSIT) student with a passio
 
 ## About Me
 
-- 🎓 I'm currently pursuing my Bachelor's degree in Information Technology.
-- 💻 My programming languages include Python, C/C++, PHP, Java, JavaScript, C# and Lua.
+- 🎓 Graduated in BS in Information Technology.
+- 💻 My programming languages include Python, C/C++, PHP, Java, JavaScript, C#, Lua and more.
 - 🌐 I specialize in web development, primarily using PHP and Python for building dynamic and interactive web applications.
 - 🤖 I'm fascinated by machine learning and enjoy exploring its applications in various domains.
 - 🎮 I have a strong interest in game development and love creating immersive experiences for players.
@@ -15,9 +15,9 @@ I'm a Bachelor of Science in Information Technology (BSIT) student with a passio
 
 Here are a few projects I've worked on:
 
-- **[Project 1](https://github.com/christVayds/backInTime.git)**: Description of project 1.
-- **[Project 2](link-to-project-2)**: Description of project 2.
-- **[Project 3](link-to-project-3)**: Description of project 3.
+- **[Back In Time]([https://github.com/christVayds/backInTime.git](https://github.com/christVayds/backInTime))**: Sci-fi and horror 2D pixel game about fixing a time machine to go back in time to change the past.
+- **[Yanji Programming Language](https://github.com/christVayds/Yanji-Programming-Language)**: Yanji Programming Language is a typed, low-level compiled programming language. Yanji is very fast, memory safety, easy to learn. Inspired by C/C++, Rust and Python. Its compiler is Yanc powered by LLVM.
+- **[SBCA School Portal]([link-to-project-3](https://github.com/christVayds/SBCA_PORTAL))**: A School portal for student and faculty for easy sharing of grades, activities, announcements and other important information.
 
 ## Contact Me
 
