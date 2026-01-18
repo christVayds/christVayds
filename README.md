@@ -15,9 +15,9 @@ I'm a Bachelor of Science in Information Technology (BSIT) student with a passio
 
 Here are a few projects I've worked on:
 
-- **[Back In Time]([https://github.com/christVayds/backInTime.git](https://github.com/christVayds/backInTime))**: Sci-fi and horror 2D pixel game about fixing a time machine to go back in time to change the past.
+- **[Back In Time](https://github.com/christVayds/backInTime)**: Sci-fi and horror 2D pixel game about fixing a time machine to go back in time to change the past.
 - **[Yanji Programming Language](https://github.com/christVayds/Yanji-Programming-Language)**: Yanji Programming Language is a typed, low-level compiled programming language. Yanji is very fast, memory safety, easy to learn. Inspired by C/C++, Rust and Python. Its compiler is Yanc powered by LLVM.
-- **[SBCA School Portal]([link-to-project-3](https://github.com/christVayds/SBCA_PORTAL))**: A School portal for student and faculty for easy sharing of grades, activities, announcements and other important information.
+- **[SBCA School Portal](https://github.com/christVayds/SBCA_PORTAL)**: A School portal for student and faculty for easy sharing of grades, activities, announcements and other important information.
 
 ## Contact Me
 
